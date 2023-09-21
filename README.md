@@ -1,5 +1,5 @@
 ### Olá Pessoal! ✋
-Meu nome é Helingston Pereira e eu sou Desenvolvedor de Software Back-end edesde 2023, passando por transação de carreira, onde tive meu primeiro contato com a implatanção de um sistema de Gestão em 2015 e foi onde desenvolvi esse amor pela área de tecnologia.
+Meu nome é Helingston Pereira e eu sou Desenvolvedor de Software Back-end desde 2023, passando por transação de carreira, onde tive meu primeiro contato com a implatanção de um sistema de Gestão em 2015 e foi onde desenvolvi esse amor pela área de tecnologia.
 
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/helingston/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](helingston.pereira@gmail.com)
